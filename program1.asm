@@ -1,3 +1,4 @@
+//Check time of day 
         .data
 Prompt:
         .asciiz "Please enter a time 1-24:  "
